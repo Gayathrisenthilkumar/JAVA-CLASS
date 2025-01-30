@@ -1,9 +1,9 @@
-public class gayathri {
+public class variables {
   public static void main(String[] args)
 {
 	int container =450;
-	String kumar="k";
-	String container1=kumar;
+	String gayathri="g";
+	String container1=gayathri;
 	System.out.println(container);
 	System.out.println(container1);
 }
